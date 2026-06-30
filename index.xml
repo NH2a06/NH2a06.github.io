@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://nh2a06.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 13:59:49 +0800</lastBuildDate>
-    <atom:link href="https://nh2a06.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 13:35:11 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Blog</title>
+      <link>http://localhost:1313/posts/my-second-blog/</link>
+      <pubDate>Tue, 30 Jun 2026 13:35:11 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-second-blog/</guid>
+      <description>&lt;p&gt;# 我的第二篇博客&lt;/p&gt;</description>
+    </item>
     <item>
       <title>MyFirstBlog</title>
-      <link>https://nh2a06.github.io/posts/myfirstblog/</link>
+      <link>http://localhost:1313/posts/myfirstblog/</link>
       <pubDate>Mon, 29 Jun 2026 13:59:49 +0800</pubDate>
-      <guid>https://nh2a06.github.io/posts/myfirstblog/</guid>
+      <guid>http://localhost:1313/posts/myfirstblog/</guid>
       <description>&lt;p&gt;# 这是我的第一篇博客&lt;/p&gt;</description>
     </item>
   </channel>
